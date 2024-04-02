@@ -4,7 +4,7 @@ This is my personal website to show my profile, bio, photo, links, social media,
 
 ## Links
 
-- Website URL: [malfajri.com](https://malfajri.com)
+- Website URL: [malfajri.com](https://malfajr1-com.vercel.app/)
 - GitHub Repo: <https://github.com/mehmet345fajri/malfajri.com>
 - Figma File: <https://www.figma.com/file/ObN0rKSkbMHBSkxzTIU5Uk/Untitled?type=design&node-id=0%3A1&mode=design&t=YCj0YZN18qKrCZkd-1>
 
